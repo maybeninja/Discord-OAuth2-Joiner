@@ -1,0 +1,51 @@
+ProxyMode: False
+AutoRefresh: False
+
+MainBotSettings:
+  Token: MTM
+  OwnerID: 1362694747906641970
+  EmbedColor: 0x00ff00
+  Activity: Testing Phase
+  EmbedFooter: Asta
+  FooterIcon: https://cdn.discordapp.com/attachments/1353997907631542293/1363379826005639239/IMG_0021.jpg?ex=6805d1e8&is=68048068&hm=19cac2c2e43e794b1b5b53cf4d735215c80db418e19e1c397247a974d9833d00&
+  StatusChaannel:
+
+MemberBotSettings:
+  OfflineToken: MTM2
+  OfflineClientID: 1362
+  OfflineClientSecret: X
+  OnlineToken: 
+  OnlineClientID: 
+  OnlineClientSecret: 
+
+BoostingBotSettings:
+  BoostingBotToken: 
+  BoostingBotClientID: 
+  BoostingBotClientSecret: 
+
+AutobuySupport:
+  Enable: True
+  Site: 'SellAuth'
+
+FrontWebSettings:
+  Autobuy: 
+  Discord: 
+  ShopName: 
+  ShopLogo: 
+  Colors:
+    Main: 
+    Secondary: 
+    Accent: 
+
+
+LoggingSettings:
+ Enable: True
+ Webhook: 
+ 
+
+HostingSettings:
+ IPAddress: localhost
+ UseHTTPS: False
+ AutobuyPort: 8080
+ BotPort: 8080
+ Host: 0.0.0.0
