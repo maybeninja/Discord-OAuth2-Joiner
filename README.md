@@ -18,4 +18,5 @@ This project is an automated tool designed to integrate with Discord via OAuth2 
 
 
 
-- IM NOT HELPING ANYONE 
+  # Disclaimer
+  - The Script Is Incomplete Cause I Was Bored With It , Use Your Own Brain
